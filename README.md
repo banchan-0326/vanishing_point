@@ -3,7 +3,8 @@
 
 pygame, numpy, math 라이브러리가 필요합니다.
 
-pip install pygame \n
+pip install pygame
+
 pip install numpy
 
 사용법: 
